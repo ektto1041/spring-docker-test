@@ -37,6 +37,6 @@ out/
 .vscode/
 
 ### Docker
-Dockerfile.dev
-docker-compose.dev.yml
+Dockerfile.*
+docker-compose.*
 data/
